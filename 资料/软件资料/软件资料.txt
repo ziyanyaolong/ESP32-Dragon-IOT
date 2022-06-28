@@ -1,0 +1,3 @@
+OpenCSEC（芯片封装库）：https://github.com/ziyanyaolong/OpenCSEC
+FLSystem（单片机系统库）：https://github.com/ziyanyaolong/FLSystem
+硬件例程：https://github.com/ziyanyaolong/ESP32-Dragon-IOT
